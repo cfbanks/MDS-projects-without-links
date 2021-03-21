@@ -20,7 +20,7 @@ In recent years, the NBA has seen an increase in the proportion of shots that ar
 <p align="center">
   <img src="three_pts.png" width=75% height=75% alt="3-Pointer Ratio"/></p>
 
-<p align="center" style="font-size:11px">This chart displays the proportion of the player shots (Field Goals) that are 3-pointers for each season in the NBA. By 2020 over 30% of all shots are 3-pointers <p align="center">
+<p align="center" style="font-size:10px">This chart displays the proportion of the player shots (Field Goals) that are 3-pointers for each season in the NBA. By 2020 over 30% of all shots are 3-pointers <p align="center">
 
 The line graph above does a great job of showing how trends change over time. everyone is able to see that more shots are being taken from behind the 3-point line in recent years. One reason for this observed trend is the increased use of data analytics in professional basketball.
 
@@ -41,7 +41,7 @@ With that assumption in mind, we can get an idea of how the rise of 3-point shoo
 <p align="center">
   <img src="bad_weight.png" width=75% height=75% alt="Weight Zoomed-in"/></p>
 
-<p align="center" style="font-size:11px">The average player weight (in pounds) of NBA players each season. In recent years, we see a steep decline in player weight.   <p align="center">
+<p align="center" style="font-size:10px">The average player weight (in pounds) of NBA players each season. In recent years, we see a steep decline in player weight.   <p align="center">
 
 Right around the 2012-2013 season we see a **steep** decline in average player weight. Sure enough this is right around the time we saw an increase in the percentage of 3-pointers being shot in our graph from earlier. 
 
@@ -58,7 +58,7 @@ Before we get too far ahead of ourselves, let's take another look at that player
 <p align="center">
   <img src="good_weight.png" width=75% height=75% alt="Weight True" /></p>
 
-<p align="center" style="font-size:11px">The average player weight (in pounds) of NBA players each season. This graph has the y axis starting at zero.<p align="center">
+<p align="center" style="font-size:10px">The average player weight (in pounds) of NBA players each season. This graph has the y axis starting at zero.<p align="center">
 
 That is the same data? Really?
 
