@@ -58,7 +58,7 @@ Before we get too far ahead of ourselves, let's take another look at that player
 <p align="center">
   <img src="good_weight.png" width=75% height=75% alt="Weight True" /></p>
 
-<p align="center" style="font-size:10px">The average player weight (in pounds) of NBA players each season. This graph has the y axis starting at zero.<p align="center">
+<p align="center" style="font-size:10px">The average player weight (in pounds) of NBA players each season. This graph has the y-axis starting at zero and shows stable average player weight over time.<p align="center">
 
 That is the same data? Really?
 
