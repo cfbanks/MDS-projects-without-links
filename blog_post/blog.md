@@ -1,4 +1,4 @@
-# Is The NBA Shrinking?
+# Are NBA Players Shrinking?
 
 ##### Connor Fairbanks
 ##### March 20, 2021
